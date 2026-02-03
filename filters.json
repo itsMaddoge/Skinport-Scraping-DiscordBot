@@ -1,0 +1,34 @@
+{
+    "Epicenter": {
+        "max_price": 13.0,
+        "max_wear": 0.209
+    },
+    "Entombed": {
+        "max_price": 6.1,
+        "max_wear": 0.09
+    },
+    "Neo-Noir": {
+        "max_price": 13.0,
+        "max_wear": 0.209
+    },
+    "Etch Lord": {
+        "max_price": 1.2,
+        "max_wear": 0.219
+    },
+    "Wicked Sick": {
+        "max_price": 2.6,
+        "max_wear": 0.19
+    },
+    "Wild Child": {
+        "max_price": 2.6,
+        "max_wear": 0.19
+    },
+    "Kitbash": {
+        "max_price": 1.12,
+        "max_wear": 0.1
+    },
+    "Connexion": {
+        "max_price": 1.12,
+        "max_wear": 0.1
+    }
+}
