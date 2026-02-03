@@ -13,7 +13,6 @@ Automates monitoring Skinport market pages and sends Discord alerts when items m
 ## Project Structure
 - Chrome Extension 2.0/ — extension that refreshes tabs and sends HTML
 - Skinport Sniper/LocalServerandBot.py — local server + parser + Discord bot
-- Skinport Sniper/filters.json — saved filters
 - Skinport Sniper/Parsing.py — standalone HTML parsing test script
 
 ## Requirements
